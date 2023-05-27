@@ -3,6 +3,7 @@
   
   使用：
   
-  '''bash
+  ''' bash
   #打开绿灯
   ./led green 0
+  '''
